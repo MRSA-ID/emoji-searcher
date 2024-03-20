@@ -11,15 +11,15 @@
   flex: 1;
   min-height: 100px;
   min-width: 100px;
-  transition: all 0,4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  transition: all 0.4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
-  -webkit-transition: all 0,4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
-  -moz-transition: all 0,4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
-  -ms-transition: all 0,4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
-  -o-transition: all 0,4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  -webkit-transition: all 0.4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  -moz-transition: all 0.4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  -ms-transition: all 0.4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  -o-transition: all 0.4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
 }
 
 .selected {
